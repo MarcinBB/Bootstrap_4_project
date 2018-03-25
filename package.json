@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 how it's work",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcinBB/Bootstrap_4_project.git"
+  },
+  "author": "Marcin Bogdanski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcinBB/Bootstrap_4_project/issues"
+  },
+  "homepage": "https://github.com/MarcinBB/Bootstrap_4_project#readme"
+}
